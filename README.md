@@ -28,7 +28,7 @@ Check out [API LIVE DEMO](https://hunger-captain-backend.ahzsi.repl.co/) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/Rabeel90/Hunger-Captain.git
+1. Git Clone https://github.com/Ahzsi/Hunger-Captain.git
 
 ```
 git clone 
